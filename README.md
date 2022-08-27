@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=DarthIF&count_private=true&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthIF&layout=compact&theme=tokyonight)
