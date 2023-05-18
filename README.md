@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=DarthIF&count_private=true&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthIF&layout=compact&theme=tokyonight)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=DarthIF&count_private=true&show_icons=true&theme=tokyonight)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DarthIF&theme=dark&border_radius=2&mode=weekly)](https://git.io/streak-stats)
